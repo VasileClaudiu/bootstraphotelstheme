@@ -5,6 +5,6 @@
 </head>
 <body>
 	<h1>Bootstrap Hotels Theme</h1>
-	<a href="https://vasileclaudiu.github.io/bootstraphotelstheme/"><strong>DEMO</strong></a>
+	<a href="https://vasileclaudiu.github.io/bootstraphotelstheme/index.html"><strong>DEMO</strong></a>
 </body>
 </html>
